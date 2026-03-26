@@ -99,7 +99,7 @@
 ---
 
 ### 👤Author
-Created by: AnaghaParkhiIncluded
+Created by: AnaghaParkhi
 Passionate about Data Engineering, Cloud, and Analytics
 ## License
 MIT
